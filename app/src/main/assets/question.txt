@@ -1,0 +1,73 @@
+{
+  "Questions" : [
+    {
+      "id" : 1,
+      "Ans" : "A",
+      "A" : " 8 bit",
+      "B" : "16 bit",
+      "C" : "32 bit",
+      "D" : "64 bit",
+      "comnts":"Sample",
+      "Ques" : "What is the size of byte variable?"
+    },
+    {
+      "id" : 2,
+      "Ans" : "B",
+      "A" : "true",
+      "B" : "false",
+      "C" : "",
+      "D" : "",
+      "comnts":"Sample",
+      "Ques" : "Is it necessary that each try block must be followed by a finally block?"
+    },
+    {
+      "id" : 3,
+      "Ans" : "B",
+      "A" : "StringBuilder",
+      "B" : "StringBuffer",
+      "C" : "Both of the above",
+      "D" : "none of the above",
+      "comnts":"Sample",
+      "Ques" : "Which of the following is a thread safe?"
+    },
+    {
+      "id" : 4,
+      "Ans" : "B",
+      "A" : "true",
+      "B" : "false",
+      "C" : "",
+      "D" : "",
+      "comnts":"Sample",
+      "Ques" : "Can we compare int variable with a boolean variable?"
+    },
+    {
+      "id" : 5,
+      "Ans" : "B",
+      "A" : "true",
+      "B" : "false",
+      "C" : "",
+      "D" : "",
+      "comnts":"Sample",
+      "Ques" : "Can we have two public classes in one java file?"
+    },
+    {
+      "id" : 6,
+      "Ans" : "C",
+      "A" : "\\u0000'",
+      "B" : "null",
+      "C" : "Not Defined",
+      "D" : "",
+      "comnts":"Sample",
+      "Ques" : "What is the default value of char variable?"
+    },
+    {
+      "id" : 7,
+      "Ans" : "D",
+      "A" : "true",
+      "B" : "false",
+      "C" : "null",
+      "D" : "Not Defined",
+      "comnts":"Sample",
+      "Ques" : "What is the default value of Boolean variable?"
+    }
+  ]}

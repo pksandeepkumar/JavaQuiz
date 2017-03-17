@@ -13,7 +13,6 @@ import texus.javaquiz.database.DatabasesHelper;
 public class App extends Application {
 
 
-
     private static App instance;
 
     public App() {
